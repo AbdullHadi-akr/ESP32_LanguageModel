@@ -1,0 +1,4 @@
+* text=auto eol=lf
+# Generierte Gewichte und Vokabular: in GitHub-Diffs und Sprachstatistik ausblenden
+model_int8.h linguist-generated=true -diff
+tokenizer.h  linguist-generated=true

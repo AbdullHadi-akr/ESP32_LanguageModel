@@ -1,0 +1,21 @@
+# Build-Ausgaben
+build/
+*.bin
+*.elf
+*.map
+*.o
+
+# Host-Tests
+*.exe
+a.out
+
+# IDE / Editor
+.vscode/
+.idea/
+.claude/
+*.swp
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
+desktop.ini
